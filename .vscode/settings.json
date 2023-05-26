@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ashwin/Desktop/dictionary-imgui",
+            "binaryPath": "/home/ashwin/Desktop/dictionary-imgui/App",
+            "binaryArgs": []
+        }
+    ]
+}
